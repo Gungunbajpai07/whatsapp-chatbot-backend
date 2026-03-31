@@ -35,4 +35,7 @@ POST /webhook
 4. Test using Postman
 
 ## 📸 Demo
-(Add your screenshots here if needed)
+![WhatsApp Image 2026-03-31 at 12 44 24 PM](https://github.com/user-attachments/assets/b28d730f-2f84-4e1e-8e3b-333700f73cb7)
+
+
+![WhatsApp Image 2026-03-31 at 12 41 23 PM](https://github.com/user-attachments/assets/32f7400d-450a-455f-b167-63ac5430b4a0)
